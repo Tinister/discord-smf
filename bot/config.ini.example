@@ -1,0 +1,16 @@
+[DEFAULT]
+
+# Path where log messages are written
+# log_path = 
+
+# How frequently to send messages in seconds
+# send_interval = 60.0
+
+# The name of the server the bot is a member of that it should monitor
+# server_name = 
+
+# The name of the channel on the server that it should monitor
+# channel_name = 
+
+# The token given to you by Discord
+# token = 
